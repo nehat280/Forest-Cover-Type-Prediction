@@ -11,7 +11,7 @@ Using Random Forest i was able to achieve 81.3% accuracy on testing model.
 
 
 
-The notebook will follow the workflow:
+**The notebook will follow the workflow:**
 
 1. Undserstand, Clean and Format Data
 
