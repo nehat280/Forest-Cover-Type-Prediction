@@ -29,11 +29,11 @@ Using Random Forest i was able to achieve 81.3% accuracy on testing model.
 
 5. Fitting the Model with best features.
 
-  5.1. Decision tree model
+      5.1. Decision tree model
+
+      5.2. Random Forest Classifier
   
-  5.2. Random Forest Classifier
-  
-      5.2.1. Hyper Parameter on Random Forest
+          5.2.1. Hyper Parameter on Random Forest
 
 
 6. Visualization of the best model using Confusion Matrix.
